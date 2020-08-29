@@ -34,9 +34,8 @@ def data_print(soup):  # 这里可以优化显示文章链接啥的
                 for aritle in day.select('a.postTitle2'): # 每天可能有多篇文章
                         print('- ',date.text, ' ', '[', aritle.get_text().strip(), '](', aritle.get('href'), ')', sep='')
 
-        print('\n:point_right: **[阅读更多](https://www.cnblogs.com/yjlaugus/p/)**')
-
-        print('  :house: **[仓库索引](https://github.com/yjlaugus/box)**')
+        print('\n:point_right: **[阅读更多](https://www.cnblogs.com/yjlaugus/p/)**\n')
+		print('⬇️点击下方图片留言⬇️\n')
         print('<a href="https://chat.getloli.com/room/@YJLAugus.github?title=YJLAugus-chatroom"><img src="https://chat.getloli.com/room/@YJLAugus.github/svg?width=600&height=280&limit=20&theme=light&title=YJLAugus@github:%20~&fontSize=13"></a>')
         sys.stdout = original_stdout  # Reset the standard output to its original value
 
