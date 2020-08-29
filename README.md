@@ -9,6 +9,6 @@
 - 2020年1月2日 [2020元旦献礼——从零开始开发一个操作系统](https://www.cnblogs.com/yjlaugus/p/12132585.html)
 
 :point_right: **[阅读更多](https://www.cnblogs.com/yjlaugus/p/)**
-  :house: **[仓库索引](https://github.com/yjlaugus/box)**
+  :house: **⬇️点击下方图片留言⬇️**
 
 <a href="https://chat.getloli.com/room/@YJLAugus.github?title=YJLAugus-chatroom"><img src="https://chat.getloli.com/room/@YJLAugus.github/svg?width=600&height=280&limit=20&theme=light&title=YJLAugus@github:%20~&fontSize=13" align="left"></a>
