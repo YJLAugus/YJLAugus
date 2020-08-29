@@ -1,4 +1,7 @@
-<img src="https://i.loli.net/2020/07/21/3zO4gcHAepqsKvw.gif" align="right" width=320px height=240px/>
+<p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme"></a>
+  <img src="https://weather-icon.journeyad.repl.co/@binzhou?v=1" align="right">
+</p>
 
 ## :memo:最近的笔记
 
