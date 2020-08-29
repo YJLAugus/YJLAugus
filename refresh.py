@@ -27,11 +27,7 @@ def data_print(soup):  # 这里可以优化显示文章链接啥的
     '''
     with open('README.md', 'w') as f:
         sys.stdout = f  # Change the standard output to the file we created.
-        print('<p>
-				<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme"></a>
-				<img src="https://weather-icon.journeyad.repl.co/@binzhou?v=1" align="right">
-				</p>')
-        print('<img src="https://i.loli.net/2020/07/21/3zO4gcHAepqsKvw.gif" align="right" width=320px height=240px/>')
+        print('<p><a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme"></a><img src="https://weather-icon.journeyad.repl.co/@binzhou?v=1" align="right"></p>')
         print('\n## :memo:最近的笔记\n')
         for day in soup.select('div.day'):
             for date in day.select('div.dayTitle a'):# 每天只有一个日期
@@ -41,7 +37,7 @@ def data_print(soup):  # 这里可以优化显示文章链接啥的
         print('\n:point_right: **[阅读更多](https://www.cnblogs.com/yjlaugus/p/)**')
 
         print('  :house: **[仓库索引](https://github.com/yjlaugus/box)**')
-        print('<a href="https://chat.getloli.com/room/@YJLAugus.github?title=YJLAugus-chatroom"><img src="https://chat.getloli.com/room/@journey-ad.github/svg?width=600&height=280&limit=20&theme=light&title=YJLAugus@github:%20~&fontSize=13"></a>')
+        print('<a href="https://chat.getloli.com/room/@YJLAugus.github?title=YJLAugus-chatroom"><img src="https://chat.getloli.com/room/@YJLAugus.github/svg?width=600&height=280&limit=20&theme=light&title=YJLAugus@github:%20~&fontSize=13"></a>')
         sys.stdout = original_stdout  # Reset the standard output to its original value
 
 
