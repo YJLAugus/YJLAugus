@@ -16,4 +16,7 @@
 
 ⬇️点击下方图片留言⬇️
 
-[![](https://chat.getloli.com/room/@journey-ad.github/svg?width=600&height=280&limit=20&theme=light&title=journey-ad@github:%20~&fontSize=13)](https://chat.getloli.com/room/@YJLAugus.github?title=YJLAugus-chatroom)
+<a href="https://chat.getloli.com/room/@YJLAugus.github?title=YJLAugus-chatroom"><img src="https://chat.getloli.com/room/@journey-ad.github/svg?width=600&height=280&limit=20&theme=light&title=YJLAugus@github:%20~&fontSize=13"></a>
+
+
+[![]()]()
