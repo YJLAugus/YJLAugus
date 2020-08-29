@@ -1,12 +1,7 @@
-<p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme"></a>
-  <img src="https://weather-icon.journeyad.repl.co/@binzhou?v=1" align="right">
-</p>
+<img src="https://i.loli.net/2020/07/21/3zO4gcHAepqsKvw.gif" align="right" width=320px height=240px/>
 
 ## :memo:最近的笔记
 
-
-- 2020年8月23日 [[置顶]
 - 2020年8月9日 [博客主题推荐——复杂 | 简单](https://www.cnblogs.com/yjlaugus/p/13466375.html)
 - 2020年7月26日 [完美发音进阶课-连读技巧](https://www.cnblogs.com/yjlaugus/p/13378398.html)
 - 2020年7月25日 [30秒搞定所有英文连读](https://www.cnblogs.com/yjlaugus/p/13378459.html)
