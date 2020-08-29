@@ -1,7 +1,4 @@
-<p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme"></a>
-  <img src="https://weather-icon.journeyad.repl.co/@binzhou?v=1" align="right">
-</p>
+<img src="https://i.loli.net/2020/07/21/3zO4gcHAepqsKvw.gif" align="right" width=320px height=240px/>
 
 ## :memo:最近的笔记
 
@@ -13,8 +10,3 @@
 
 :point_right: **[阅读更多](https://www.cnblogs.com/yjlaugus/p/)**
   :house: **[仓库索引](https://github.com/yjlaugus/box)**
-
-⬇️点击下方图片留言⬇️
-
-[![](https://chat.getloli.com/room/@test/svg?width=750&height=360&limit=20&theme=light&fontSize=13&title=YJLAugus@github.com: ~)](https://chat.getloli.com/room/@YJLAugus.github?title=YJLAugus-chatroom)
-
