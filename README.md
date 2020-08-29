@@ -7,4 +7,4 @@
 
 
 :point_right: **[阅读更多](https://www.cnblogs.com/yjlaugus/p/)**
-  :house: **[仓库索引](https://github.com/yjlaugus/box)**
+:house: **[仓库索引](https://github.com/yjlaugus/box)**
