@@ -1,4 +1,4 @@
-<p><a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme"></a><img src="https://weather-icon.journeyad.repl.co/@binzhou?v=1" align="right"></p>
+<p><img src="https://count.getloli.com/get/@yjlaugus-blog?theme=moebooru"><img src="https://weather-icon.journeyad.repl.co/@binzhou?v=1" align="right"></p>
 
 ## :memo:最近的笔记
 
