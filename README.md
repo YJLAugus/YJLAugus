@@ -2,10 +2,12 @@
 
 ## :memo:最近的笔记
 
+- 2020年11月26日 [[置顶]
+        强化学习（Reinforcement-Learning-Notes ） 📖](https://www.cnblogs.com/yjlaugus/p/14042712.html)
 - 2018年4月6日 [[置顶]
         [博客美化]给你博客添加一个萌萌的看板娘吧](https://www.cnblogs.com/yjlaugus/p/8724881.html)
 - 2020年12月9日 [这是一个公告，呜呜呜~](https://www.cnblogs.com/yjlaugus/p/14107952.html)
-- 2020年11月26日 [强化学习笔记（Reinforcement-Learning-Notes ）](https://www.cnblogs.com/yjlaugus/p/14042712.html)
+- 2020年11月26日 [强化学习（Reinforcement-Learning-Notes ） 📖](https://www.cnblogs.com/yjlaugus/p/14042712.html)
 - 2020年8月9日 [博客主题推荐——复杂 | 简单](https://www.cnblogs.com/yjlaugus/p/13466375.html)
 - 2020年7月26日 [完美发音进阶课-连读技巧](https://www.cnblogs.com/yjlaugus/p/13378398.html)
 - 2020年7月25日 [30秒搞定所有英文连读](https://www.cnblogs.com/yjlaugus/p/13378459.html)
