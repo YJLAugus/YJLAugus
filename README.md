@@ -1,6 +1,6 @@
 ### Hi there 👋 I am YJLAugus
 
-![](https://komarev.com/ghpvc/?username=YJLAugus)
+<p><img src="https://count.getloli.com/get/@github.readme"></a><img src="https://weather-icon.journeyad.repl.co/@binzhou?v=1" align="right"></p>
 
 ####  👨‍💻  Coding  |  :running:  Running  |  :office:  Working Hard  |  :hearts:  Be Nice
 
@@ -23,30 +23,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YJLAugus&hide=html,css)](https://github.com/YJLAugus)
 
+####  :sparkling_heart:  Focusing BBC
 
+<a href="https://chat.getloli.com/room/@YJLAugus.github?title=YJLAugus-chatroom"><img src="https://chat.getloli.com/room/@YJLAugus.github/svg?width=600&height=280&limit=20&theme=light&title=YJLAugus@github:%20~&fontSize=13" align="left"></a>
 
-
-<!--
-
-
-**wangyuheng/wangyuheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-[![wangyuheng's github stats](https://github-readme-stats.vercel.app/api?username=wangyuheng&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangyuheng&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-
--->
