@@ -6,8 +6,7 @@
 
 [![YJLAugus's github stats](https://github-readme-stats.vercel.app/api?username=YJLAugus&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently studying on :school:  [`HSE University`](https://www.hse.ru/en/)
-- 🌱 I’m currently learning [`Systems and Software Engineering`](https://www.hse.ru/en/ma/se/)
+
 - 👯 You can find me in my blog  [YJLAugus](https://www.cnblogs.com/yjlaugus) 
 - 💬 Ask me about anything as long as I can
 - 📫 How to reach me: imyjl@qq.com
